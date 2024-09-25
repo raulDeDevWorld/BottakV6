@@ -375,7 +375,7 @@ console.log(QRurl)
     {QRurl !== '' && <button onClick={handleExport} className="relative left-0 right-0 mx-auto mt-4 px-10 py-2  bg-red-500 text-white rounded">
         Exportar a PDF
     </button>} */}
-            </div>
+            </div>                    
         </main >
 
 
